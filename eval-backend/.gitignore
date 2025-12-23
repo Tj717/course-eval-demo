@@ -1,0 +1,6 @@
+node_modules/
+.env
+src/.env
+hash-password.exe
+hash-password.js
+course-eval-api

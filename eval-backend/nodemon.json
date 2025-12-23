@@ -1,0 +1,12 @@
+{
+    "ignore": [
+      "uploads/*",
+      "src/data-process/output/*",
+      "src/data-process/processed_sheets.json",
+      "src/data/instructors.json",
+      "src/data/courses.json",
+      "src/data/users.json"
+    ],
+    "ext": "js,json"
+  }
+  

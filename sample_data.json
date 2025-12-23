@@ -1,0 +1,156 @@
+[
+  {
+    "Course_ID": "sample course 001",
+    "Course_Number": "SC 001",
+    "Section_Number": "001",
+    "Instructor": "Sample Instructor 1",
+    "Year": 2022,
+    "Term": "W1",
+    "Term_Number": 1,
+    "Average": 4.2,
+    "Term_Average": 4.1
+  },
+  {
+    "Course_ID": "sample course 002",
+    "Course_Number": "SC 002",
+    "Section_Number": "002",
+    "Instructor": "Sample Instructor 2",
+    "Year": 2022,
+    "Term": "W1",
+    "Term_Number": 1,
+    "Average": 3.9,
+    "Term_Average": 4.0
+  },
+  {
+    "Course_ID": "sample course 003",
+    "Course_Number": "SC 003",
+    "Section_Number": "001",
+    "Instructor": "Sample Instructor 3",
+    "Year": 2022,
+    "Term": "W2",
+    "Term_Number": 2,
+    "Average": 4.4,
+    "Term_Average": 4.3
+  },
+  {
+    "Course_ID": "sample course 004",
+    "Course_Number": "SC 004",
+    "Section_Number": "003",
+    "Instructor": "Sample Instructor 4",
+    "Year": 2022,
+    "Term": "S1",
+    "Term_Number": 3,
+    "Average": 4.6,
+    "Term_Average": 4.5
+  },
+  {
+    "Course_ID": "sample course 005",
+    "Course_Number": "SC 005",
+    "Section_Number": "002",
+    "Instructor": "Sample Instructor 5",
+    "Year": 2023,
+    "Term": "W1",
+    "Term_Number": 1,
+    "Average": 3.8,
+    "Term_Average": 3.9
+  },
+  {
+    "Course_ID": "sample course 001",
+    "Course_Number": "SC 001",
+    "Section_Number": "001",
+    "Instructor": "Sample Instructor 1",
+    "Year": 2023,
+    "Term": "W1",
+    "Term_Number": 1,
+    "Average": 4.3,
+    "Term_Average": 4.2
+  },
+  {
+    "Course_ID": "sample course 001",
+    "Course_Number": "SC 001",
+    "Section_Number": "001",
+    "Instructor": "Sample Instructor 1",
+    "Year": 2023,
+    "Term": "W2",
+    "Term_Number": 2,
+    "Average": 4.1,
+    "Term_Average": 4.0
+  },
+  {
+    "Course_ID": "sample course 001",
+    "Course_Number": "SC 001",
+    "Section_Number": "001",
+    "Instructor": "Sample Instructor 1",
+    "Year": 2025,
+    "Term": "W1",
+    "Term_Number": 1,
+    "Average": 4.5,
+    "Term_Average": 4.4
+  },
+  {
+    "Course_ID": "sample course 002",
+    "Course_Number": "SC 002",
+    "Section_Number": "002",
+    "Instructor": "Sample Instructor 2",
+    "Year": 2024,
+    "Term": "W1",
+    "Term_Number": 1,
+    "Average": 3.7,
+    "Term_Average": 3.8
+  },
+  {
+    "Course_ID": "sample course 002",
+    "Course_Number": "SC 002",
+    "Section_Number": "002",
+    "Instructor": "Sample Instructor 2",
+    "Year": 2024,
+    "Term": "W2",
+    "Term_Number": 2,
+    "Average": 4.0,
+    "Term_Average": 4.1
+  },
+  {
+    "Course_ID": "sample course 001",
+    "Course_Number": "SC 001",
+    "Section_Number": "001",
+    "Instructor": "Sample Instructor 2",
+    "Year": 2023,
+    "Term": "W2",
+    "Term_Number": 2,
+    "Average": 3.9,
+    "Term_Average": 3.8
+  },
+  {
+    "Course_ID": "sample course 001",
+    "Course_Number": "SC 001",
+    "Section_Number": "003",
+    "Instructor": "Sample Instructor 3",
+    "Year": 2024,
+    "Term": "S1",
+    "Term_Number": 3,
+    "Average": 4.2,
+    "Term_Average": 4.3
+  },
+  {
+    "Course_ID": "sample course 002",
+    "Course_Number": "SC 002",
+    "Section_Number": "003",
+    "Instructor": "Sample Instructor 4",
+    "Year": 2023,
+    "Term": "W1",
+    "Term_Number": 1,
+    "Average": 4.1,
+    "Term_Average": 4.0
+  },
+  {
+    "Course_ID": "sample course 002",
+    "Course_Number": "SC 002",
+    "Section_Number": "004",
+    "Instructor": "Sample Instructor 4",
+    "Year": 2024,
+    "Term": "W2",
+    "Term_Number": 2,
+    "Average": 4.3,
+    "Term_Average": 4.2
+  }
+]

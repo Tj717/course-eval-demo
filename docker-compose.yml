@@ -1,0 +1,35 @@
+services:
+  frontend:
+    build: ./eval-frontend
+    working_dir: /eval-frontend
+    volumes:
+      - frontend_node_modules:/eval-frontend/node_modules
+    ports:
+      - "5173:5173"
+    env_file:
+      - ./eval-frontend/.env
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    command: npm run dev
+    depends_on:
+      - backend
+
+  backend:
+    build: ./eval-backend
+    working_dir: /eval-backend
+    volumes:
+      - backend_node_modules:/eval-backend/node_modules
+      - ./eval-backend/src/data-process/output:/eval-backend/src/data-process/output
+      - ./eval-backend/src/data-process/processed_sheets.json:/eval-backend/src/data-process/processed_sheets.json
+    ports:
+      - "5001:5001"
+    env_file:
+      - ./eval-backend/.env
+      - ./eval-backend/src/.env
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    command: npm run dev
+
+volumes:
+  frontend_node_modules:
+  backend_node_modules:

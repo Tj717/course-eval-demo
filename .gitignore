@@ -1,0 +1,7 @@
+node_modules
+.env
+eval-backend/.env
+eval-frontend/.env
+eval-backend/src/.env
+course-eval-api
+eval-backend/uploads

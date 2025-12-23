@@ -1,0 +1,81 @@
+[
+  {
+    "instructor_name": "Sample Instructor 1",
+    "courses": [
+      {
+        "course_name": "SC 001",
+        "times": [
+          "2022 W1",
+          "2023 W1",
+          "2023 W2",
+          "2025 W1"
+        ]
+      }
+    ]
+  },
+  {
+    "instructor_name": "Sample Instructor 2",
+    "courses": [
+      {
+        "course_name": "SC 002",
+        "times": [
+          "2022 W1",
+          "2024 W1",
+          "2024 W2"
+        ]
+      },
+      {
+        "course_name": "SC 001",
+        "times": [
+          "2023 W2"
+        ]
+      }
+    ]
+  },
+  {
+    "instructor_name": "Sample Instructor 3",
+    "courses": [
+      {
+        "course_name": "SC 003",
+        "times": [
+          "2022 W2"
+        ]
+      },
+      {
+        "course_name": "SC 001",
+        "times": [
+          "2024 S1"
+        ]
+      }
+    ]
+  },
+  {
+    "instructor_name": "Sample Instructor 4",
+    "courses": [
+      {
+        "course_name": "SC 004",
+        "times": [
+          "2022 S1"
+        ]
+      },
+      {
+        "course_name": "SC 002",
+        "times": [
+          "2023 W1",
+          "2024 W2"
+        ]
+      }
+    ]
+  },
+  {
+    "instructor_name": "Sample Instructor 5",
+    "courses": [
+      {
+        "course_name": "SC 005",
+        "times": [
+          "2023 W1"
+        ]
+      }
+    ]
+  }
+]
