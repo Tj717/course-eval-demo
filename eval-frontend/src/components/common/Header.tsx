@@ -7,8 +7,6 @@ import { ThemeContext } from '../../utils/themeContext';
 import { logout } from '../../utils/auth';
 
 const Header = () => {
-  const location = useLocation();
-  const isHomePage = location.pathname === '/';
   const { mode, toggleColorMode } = useContext(ThemeContext);
 
   const handleLogout = () => {
