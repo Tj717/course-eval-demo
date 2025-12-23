@@ -5,7 +5,11 @@ const { authRouter, apiRouter } = require("./routes");
 
 const app = express();
 
-app.use(cors());
+const allowedOrigins = process.env.CORS_ORIGINS
+  ? process.env.CORS_ORIGINS.split(",").map((origin) => origin.trim()).filter(Boolean)
+  : [];
+const corsOptions = allowedOrigins.length ? { origin: allowedOrigins } : {};
+app.use(cors(corsOptions));
 app.use(express.json());
 
 
