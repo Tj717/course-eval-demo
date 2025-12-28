@@ -1,6 +1,7 @@
 ## Course Eval
 
-This is the demo version of a tool I built for an ad-hoc development role at UBC.
+This is the demo version of a tool I built for an ad-hoc development role at UBC. Access it [here](https://course-eval-demo.vercel.app/)
+
 
 ## Tech stack
 
